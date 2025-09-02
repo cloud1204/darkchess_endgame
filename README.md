@@ -64,3 +64,13 @@ A Python-based graphical interface for interacting with the Chinese Chess endgam
     * 🟢 Green: Winning moves
     * 🟠 Orange: Drawing moves
     * 🔴 Red: Losing moves
+
+## How to Run
+
+```
+git clone https://github.com/cloud1204/darkchess_endgame.git
+cd darkchess_endgame/endgame_build
+make
+cd ..
+python endgame_query.py
+```
