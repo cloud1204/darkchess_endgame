@@ -2,7 +2,7 @@
 
 A bottom-up minimax algorithm implementation for Chinese Dark Chess endgame analysis with cycle detection and draw state resolution.
 
-![image](image\demo.jpg)
+![image](image/demo.jpg)
 
 ## Overview
 This project implements an endgame tablebase generator for Chinese Dark Chess using a novel bottom-up minimax approach. Unlike traditional top-down minimax algorithms that fail in graphs with cycles, our algorithm can correctly identify and classify draw positions.
