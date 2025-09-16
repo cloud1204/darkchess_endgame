@@ -1,4 +1,4 @@
-# Endgame Table Generator
+# Darkchess Endgame
 
 A bottom-up minimax algorithm implementation for Chinese Dark Chess endgame analysis with cycle detection and draw state resolution.
 
@@ -73,4 +73,5 @@ cd darkchess_endgame/endgame_build
 make
 cd ..
 python endgame_query.py
+
 ```
